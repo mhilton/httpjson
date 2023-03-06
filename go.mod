@@ -4,5 +4,5 @@ go 1.16
 
 require (
 	github.com/frankban/quicktest v1.14.4
-	golang.org/x/text v0.7.0
+	golang.org/x/text v0.8.0
 )
