@@ -3,6 +3,6 @@ module github.com/mhilton/httpjson
 go 1.16
 
 require (
-	github.com/frankban/quicktest v1.14.4
+	github.com/frankban/quicktest v1.14.5
 	golang.org/x/text v0.9.0
 )
